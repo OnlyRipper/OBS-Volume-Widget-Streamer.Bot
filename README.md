@@ -14,6 +14,8 @@ Set the size of the sournce to 1000x1100.
 [Copy ME.txt](https://github.com/user-attachments/files/16788670/Copy.ME.txt)
 
 🔘 In the Sub-Actions check all the comments and replace the fields with yours
+
+🔘 If you mute a source it won't show as 0%, this gets the actual db volume of the source not if muted, I might add this to it later, and also I will add a version with no background or frame if requested.
   
 ![2024-08-28 20-59-32](https://github.com/user-attachments/assets/a1aec0e6-3fe6-4943-b0ea-4c48c39902b4)
  
