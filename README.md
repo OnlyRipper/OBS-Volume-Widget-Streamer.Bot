@@ -18,4 +18,5 @@ Set the size of the sournce to 1000x1100.
 ![2024-08-28 20-59-32](https://github.com/user-attachments/assets/a1aec0e6-3fe6-4943-b0ea-4c48c39902b4)
  
 🔘Commands  ◻️ !volumes (Show widget for 10secoonds(default), you can change the command name or use another command for example a set volume source to also show the widget.
+
 Make sure you enabled the command in commands tab.
