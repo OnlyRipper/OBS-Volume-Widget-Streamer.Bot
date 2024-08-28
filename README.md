@@ -11,7 +11,7 @@ Checks volume sources in obs and displays the current level for each chosen sour
 Set the size of the sournce to 1000x1100.                     
 
 🔘 Download the .txt file and copy all the text inside - Go to Streamer.Bot - Imports Tab - Add the text to the Import Field.
-[Copy ME.txt](https://github.com/user-attachments/files/16788670/Copy.ME.txt)
+[Copy ME.txt](https://github.com/user-attachments/files/16788930/Copy.ME.txt)
 
 🔘 In the Sub-Actions check all the comments and replace the fields with yours
 
