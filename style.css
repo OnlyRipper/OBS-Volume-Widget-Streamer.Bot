@@ -1,0 +1,77 @@
+
+/* Simple styling for the list */
+body{
+    /* background-color: blue; */
+    
+}
+#back{
+    background: rgb(36, 36, 36);
+    width: 900px;
+    height: 930px;
+    position: absolute;
+    z-index: -1;
+    top: 120px;
+    left: 50px;
+}
+
+#imgs{
+    width: 1000px;
+    height: 1100px;
+    position: absolute;
+    background-repeat: no-repeat;
+    z-index: 1;
+}
+
+#volumeList{
+    width: 1000px;
+    height: 1200px;
+    
+}
+
+ul {
+    position: relative;
+    top: 160px;
+    left: 92px;
+    text-align: left;
+    list-style-type: none;
+    padding: 0;
+    z-index: 0;
+    
+}
+li {
+    font-family: 'Press Start 2P';
+    width: 800px;
+    padding: 80px 0 0 0;
+    font-size: 3rem;
+    z-index: 2;
+    color: rgb(255, 255, 255);
+    white-space: nowrap;
+    overflow: hidden;   
+    text-overflow: ellipsis;
+    /* text-shadow: 0px 1px 0px #d3d3d3, 0px 2px 0px #b8b4b4, 0px 3px 0px #cccccc, 0px 4px 0px #a7a7a7, 0px 5px 0px #a3a2a2, 0px 6px 0px #444, 0px 7px 0px #a8a8a8, 0px 8px 7px #001135; */
+}
+
+.volume-bar {
+    width: 800px;
+    height: 56px;
+    background-color: #ffffff;
+    color: white;
+    position: absolute;
+    z-index: 1;
+    border-radius: 2rem;
+    box-shadow: 0 29px 52px rgba(0,0,0,0.40), 0 25px 16px rgba(0,0,0,0.20);
+}
+
+.volume-level {
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: #4caf50;
+    width: 800px;
+    text-align: center;
+    color: rgb(0, 0, 0);
+    position: absolute;
+    z-index: 2;
+    border-radius: 2rem;
+    padding-left: 10px;
+    box-shadow: 0 29px 52px rgba(0,0,0,0.40), 0 25px 16px rgba(0,0,0,0.20);
+    
+}
